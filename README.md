@@ -50,6 +50,8 @@ Fitur yang ada pada Aplikasi Indihome Router Utility.exe
 ~ (v1.0.1.3) Sabtu 20 April 2024 - Perbaikan fitur Auto Save Configuration
 
 ~ (v1.0.1.4) Senin 22 April 2024 - Penambahan fitur Compare Text Utility
+
+~ (v1.0.1.5) Senin 16 Desember 2024 - Perbaikan Bug API Windows
 #
 <b>Panduan Cara Penggunaan:</b>
 1. Pastikan sebelumnya sudah menginstal "Indihome Decoder Utility" yang pernah dibahas disini https://github.com/MichaelJorky/indihome-router-decoder
